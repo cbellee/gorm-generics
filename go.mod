@@ -1,4 +1,4 @@
-module github.com/ompluscator/gorm-generics
+module github.com/cbellee/gorm-generics
 
 go 1.18
 
